@@ -1,3 +1,3 @@
-#MSSC beer service
+# MSSC beer service
 
 Spring Boot Microservice example
